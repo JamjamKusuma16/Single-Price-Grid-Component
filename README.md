@@ -1,16 +1,17 @@
 # Single Price Grid Component
 
-A responsive pricing component built using HTML and CSS. This project is based on a Frontend Mentor challenge and focuses on layout design, responsiveness, and clean UI implementation.
+A responsive pricing component built using HTML and CSS. 
+This project is based on a Frontend Mentor challenge and focuses on layout design, responsiveness, and clean UI implementation.
 
 ---
 
 # 🚀 Live Demo
-Add your live site link here (GitHub Pages / Netlify)
+<a href="https://jamjamkusuma16.github.io/Single-Price-Grid-Component/">Demo</a>
 
 ---
 
 # 📸 Screenshot
-./screenshot.png
+<img src="screenshot.png" alt="preview">
 
 ---
 
@@ -41,12 +42,11 @@ Add your live site link here (GitHub Pages / Netlify)
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-repo-name.git
-```
+(https://github.com/JamjamKusuma16/Single-Price-Grid-Component)```
 
 2. Open the project folder:
 ```
-cd your-repo-name
+cd Single-Price-Grid-Component
 ```
 
 3. Open `index.html` in your browser
